@@ -27,7 +27,7 @@ wheels = [
 ]
 
 [[package]]
-name = "temp"
+name = "setup"
 version = "0.1.0"
 source = { editable = "." }
 dependencies = [

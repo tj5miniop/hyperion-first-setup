@@ -1,5 +1,5 @@
 [project]
-name = "temp"
+name = "setup"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
@@ -9,7 +9,7 @@ dependencies = [
 ]
 
 [project.scripts]
-temp = "temp:main"
+setup = "setup:main"
 
 [build-system]
 requires = ["uv_build>=0.12.3,<0.13.0"]

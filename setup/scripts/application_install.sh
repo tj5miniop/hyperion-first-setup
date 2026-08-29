@@ -1,0 +1,5 @@
+#!/bin/bash 
+
+echo "Installing Extra Flatpaks......"
+
+flatpak install -y flathub com.usebottles.bottles com.steamgriddb.SGDBoop io.github.rfrench3.scopebuddy-gui org.prismlauncher.PrismLauncher com.github.tchx84.Flatseal it.mijorus.gearlever io.github.Foldex.AdwSteamGtk
